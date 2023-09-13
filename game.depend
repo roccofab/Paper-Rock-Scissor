@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694604003 source:c:\users\lenovo\desktop\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
